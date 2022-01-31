@@ -1,0 +1,3 @@
+Deploing contract with the account 0x68088C04c4f2fD4CB3c432546B96f09e0E4E42fB
+Token addres: 0x530eb1fAAc93c1A47126FF064687642a692F6a00
+https://rinkeby.etherscan.io/address/0x530eb1fAAc93c1A47126FF064687642a692F6a00
